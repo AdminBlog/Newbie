@@ -25,3 +25,4 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
+protected_links = "https://tipssafelink.blogspot.com/,www.youtube.com,www.facebook.com,www.plus.google.com,www.twitter.com,www.codepen.io,http://www.tipsryand.com/"

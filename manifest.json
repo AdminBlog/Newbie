@@ -1,0 +1,38 @@
+{
+  "name": "BlogRyand.COM,
+  "short_name": "BlogRyand.COM",
+  "start_url": "https://www.blogryand.com/",
+  "display": "standalone",
+  "background_color": "#e9ebee",
+  "theme_color": "#d54062",
+  "description": "Berbagi Tips Seputar Blogger dan Informasi Lainnya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-t5RUtR5fjwY/Xz6oHUr1VNI/AAAAAAAAADI/bZanKcqBD8gDqCCyB0AJvMPw5eGyTmnUgCLcBGAsYHQ/s48/BlogRyand2.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-t5RUtR5fjwY/Xz6oHUr1VNI/AAAAAAAAADI/bZanKcqBD8gDqCCyB0AJvMPw5eGyTmnUgCLcBGAsYHQ/s72/BlogRyand2.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-t5RUtR5fjwY/Xz6oHUr1VNI/AAAAAAAAADI/bZanKcqBD8gDqCCyB0AJvMPw5eGyTmnUgCLcBGAsYHQ/s96/BlogRyand2.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-t5RUtR5fjwY/Xz6oHUr1VNI/AAAAAAAAADI/bZanKcqBD8gDqCCyB0AJvMPw5eGyTmnUgCLcBGAsYHQ/s144/BlogRyand2.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-t5RUtR5fjwY/Xz6oHUr1VNI/AAAAAAAAADI/bZanKcqBD8gDqCCyB0AJvMPw5eGyTmnUgCLcBGAsYHQ/s168/BlogRyand2.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-t5RUtR5fjwY/Xz6oHUr1VNI/AAAAAAAAADI/bZanKcqBD8gDqCCyB0AJvMPw5eGyTmnUgCLcBGAsYHQ/s192/BlogRyand2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-t5RUtR5fjwY/Xz6oHUr1VNI/AAAAAAAAADI/bZanKcqBD8gDqCCyB0AJvMPw5eGyTmnUgCLcBGAsYHQ/s512/BlogRyand2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

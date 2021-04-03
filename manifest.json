@@ -3,8 +3,8 @@
   "short_name": "BlogRyand.COM",
   "start_url": "https://www.blogryand.com/",
   "display": "standalone",
-  "background_color": "#e9ebee",
-  "theme_color": "#d54062",
+  "background_color": "#fff",
+  "theme_color": "#fff",
   "description": "Berbagi Tips Seputar Blogger dan Informasi Lainnya",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-t5RUtR5fjwY/Xz6oHUr1VNI/AAAAAAAAADI/bZanKcqBD8gDqCCyB0AJvMPw5eGyTmnUgCLcBGAsYHQ/s48/BlogRyand2.png",
